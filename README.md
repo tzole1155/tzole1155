@@ -14,7 +14,7 @@ My name is Georgios Albanis. I am a Computer Vision and AI Engineer located in T
 <a href='https://github.com/tzole1155'>
   <img align='left' width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tzole1155&theme=merko&layout=compact&hide=powershell'>
 </a>
-<a href='https://github.com/rperry99'>
+<a href='https://github.com/tzole1155'>
   <img align='right' width='45%' src='https://github-readme-stats.vercel.app/api?username=tzole1155&theme=merko&show_icons=true'>
 </a>
 
