@@ -6,7 +6,8 @@ My name is Georgios Albanis. I am a Computer Vision and AI Engineer located in T
 - 📫 How to reach me: 
     
     [![Linkedin](https://img.shields.io/badge/-GeorgiosAlbanis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-albanis-7848b0130/)
-    [![Outlook](https://img.shields.io/badge/-giorgos_al10-c14438?style=flat&logo=Outlook&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=giorgos_al10@hotmail.com)
+    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:giorgos_al10@hotmail.com&color=D14836)](mailto:giorgos_al10@hotmail.com)
+[![Scholar Badge](https://img.shields.io/badge/-Scholar-c14438?style=plastic-square&logo=google&logoColor=white&color=4285F4)](https://scholar.google.com/citations?hl=en&user=2o1nthIAAAAJ)
 
 ## Check out my stats
 <p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
