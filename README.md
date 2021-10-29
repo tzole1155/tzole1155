@@ -1,6 +1,8 @@
 ## Hi there 👋
 My name is Georgios Albanis. I am a Computer Vision and AI Engineer located in Thessaloniki, Greece!
 
+I am particularly interested in multiple view geometry, deep learning, and computer graphics.
+
 ## What's Going on?
 - 📖 Currently trying to participate more in open source.
 - 📫 How to reach me: 
