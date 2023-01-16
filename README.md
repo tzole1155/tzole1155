@@ -14,7 +14,7 @@ I am particularly interested in multiple view geometry, deep learning, and compu
 ## Check out my stats
 <p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
 <a href='https://github.com/tzole1155'>
-  <img align='left' width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tzole1155&theme=merko&layout=compact&hide=powershell'>
+  <img align='left' width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tzole1155&theme=merko&layout=compact&hide=powershell,javascript,html,css'>
 </a>
 <a href='https://github.com/tzole1155'>
   <img align='right' width='45%' src='https://github-readme-stats.vercel.app/api?username=tzole1155&theme=merko&show_icons=true'>
