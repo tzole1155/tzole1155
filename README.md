@@ -1,37 +1,34 @@
 ## Hi there 👋
-My name is Georgios Albanis. I am a Computer Vision and AI Engineer located in Thessaloniki, Greece!
 
-I am particularly interested in multiple view geometry, deep learning, and computer graphics.
+My name is **Georgios Albanis**. I am a **Computer Vision & ML Engineer**, and **Co-Founder of Moverse**, based in Thessaloniki, Greece.
 
-## What's Going on?
-- 📖 Currently trying to participate more in open source.
-- 📫 How to reach me: 
-    
-    [![Linkedin](https://img.shields.io/badge/-GeorgiosAlbanis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-albanis-7848b0130/)
-    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:giorgos_al10@hotmail.com&color=D14836)](mailto:giorgos_al10@hotmail.com)
-[![Scholar Badge](https://img.shields.io/badge/-Scholar-c14438?style=plastic-square&logo=google&logoColor=white&color=4285F4)](https://scholar.google.com/citations?hl=en&user=2o1nthIAAAAJ)
+I hold a **PhD Researcher** in **markerless motion capture** and **human digitization**.
 
-## Check out my stats
-<p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
-<a href='https://github.com/tzole1155'>
-  <img align='left' width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tzole1155&theme=merko&layout=compact&hide=powershell,javascript,html,css'>
-</a>
-<a href='https://github.com/tzole1155'>
-  <img align='right' width='45%' src='https://github-readme-stats.vercel.app/api?username=tzole1155&theme=merko&show_icons=true'>
-</a>
+## What I Work On
 
+- 🎥 **Markerless Motion Capture**  
+  Real-time and offline systems for human motion digitization using multi-camera setups and AI-based pose estimation.
 
-<!--
-**tzole1155/tzole1155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧍 **Digital Humans & Animation**  
+  Motion retargeting, avatar animation, biomechanical retargeting, and realistic full-body tracking for virtual characters.
 
-Here are some ideas to get you started:
+- 🧠 **Human Motion Synthesis**  
+  Generative models, latent motion representations, interpolation, motion cleanup, and data-driven animation methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ....
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📐 **3D Computer Vision**  
+  Multiple-view geometry, calibration, bundle optimization, 3D reconstruction, and camera-based human pose estimation.
+
+## Tech Stack
+
+**Languages:** Python, C#, JavaScript  
+**AI / ML:** PyTorch, ONNX Runtime, CUDA  
+**Computer Vision:** OpenCV, Multiple-View Geometry, 3D Reconstruction  
+**Human Motion:** SMPL, SMPL-H, Pose Estimation, Motion Retargeting, Motion Synthesis  
+**Graphics / Engines:** Blender, Unreal Engine, Unity, Three.js  
+**Tools:** Docker, Git
+
+## How to Reach Me
+
+[![Linkedin](https://img.shields.io/badge/-Georgios%20Albanis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-albanis-7848b0130/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:giorgos_al10@hotmail.com)
+[![Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=2o1nthIAAAAJ)
